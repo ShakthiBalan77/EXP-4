@@ -60,27 +60,28 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 
 ## TABULAR COLUMN
 
-![WhatsApp Image 2025-11-04 at 8 56 51 PM](https://github.com/user-attachments/assets/f7011dd2-8e71-405f-bfb4-90d2fb0a80cf)
-
-![WhatsApp Image 2025-11-04 at 8 55 38 PM (1)](https://github.com/user-attachments/assets/665766a6-33d3-446b-b0e5-a08f4113938d)
-
-![WhatsApp Image 2025-11-04 at 8 55 35 PM](https://github.com/user-attachments/assets/6920866a-f6e5-4468-8772-2e9b3b3268d1)
+![WhatsApp Image 2025-11-04 at 8 56 51 PM](https://github.com/user-attachments/assets/f7011dd2-8e71-405f-bfb4-90d2fb0a80cf)<br>
+<br>
+![WhatsApp Image 2025-11-04 at 8 55 38 PM (1)](https://github.com/user-attachments/assets/665766a6-33d3-446b-b0e5-a08f4113938d)<br>
+<br>
+![WhatsApp Image 2025-11-04 at 8 55 35 PM](https://github.com/user-attachments/assets/6920866a-f6e5-4468-8772-2e9b3b3268d1)<br>
 
 
 ## WAVEFORM:
 
 ### Half wave rectifier:
-
-<img width="1381" height="891" alt="image" src="https://github.com/user-attachments/assets/34cca96a-e969-4d4f-95e5-fe0799f07604" />
-
+<br>
+<img width="1381" height="891" alt="image" src="https://github.com/user-attachments/assets/34cca96a-e969-4d4f-95e5-fe0799f07604" /><br>
+<br>
 <img width="1386" height="864" alt="image" src="https://github.com/user-attachments/assets/3fb9c976-74e3-4cfb-9081-196a593340a7" />
+<br>
 
 ### Bridge rectifier:
-
-<img width="1378" height="885" alt="image" src="https://github.com/user-attachments/assets/f065e1fe-5e8f-4ba0-baa8-ce09aaf1501a" />
-
+<br>
+<img width="1378" height="885" alt="image" src="https://github.com/user-attachments/assets/f065e1fe-5e8f-4ba0-baa8-ce09aaf1501a" /><br>
+<br>
 <img width="1371" height="888" alt="image" src="https://github.com/user-attachments/assets/bfc76c49-5e4c-4075-b436-637cbed32825" />
-
+<br>
 
 # RESULT:
 
